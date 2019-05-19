@@ -1,0 +1,11 @@
+autobahn==18.11.2
+Django==1.11
+git+https://github.com/MongoEngine/django-mongoengine.git@master
+djangorestframework==3.9.0
+hazelcast-python-client==3.10
+mongoengine==0.16.3
+pymongo==3.7.2
+python-decouple==3.1
+pytz==2018.7
+six==1.12.0
+txaio==18.8.1
